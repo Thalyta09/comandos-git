@@ -1,0 +1,190 @@
+Bootcamp Spread Java Developer
+
+Criei esse checklist com o intuito de ir acompanhando meu progresso no BootCamp Spread, conforme for avançando nos cursos vou atualizando o mesmo;
+
+Cursos:
+
+- Boas-vindas ao Bootcamp Spread Java Developer ☑
+  Duração: 1hr
+  Nível: Básico
+  Status: Concluido
+
+- Bem-vindo à DIO  ☑
+  Duração: 1hr
+  Nível: Básico
+  Status: Concluido
+
+- Mentoria #1: Aula Inaugural Spread Java Developer  ☑
+  Live dia 10/11/2021
+  Duração: 2hr
+  Status: Concluido
+
+- Lógica de Programação Essencial  ☑
+  Duração: 4hr
+  Nível: Básico
+  Status: Concluido
+
+- Aprenda o que são Estrutura de Dados e Algoritmos  ☑
+  Duração: 2hr
+  Nível: Intermediário
+  Status: Concluido
+
+- Introdução ao Git e ao GitHub  ☑
+  Duração: 5hr
+  Nível: Básico
+  Status: Concluido
+
+- Projeto: Criando seu Primeiro Repositório no GitHub para Compartilhar seu Progresso  ☑
+  Duração: 1hr
+  Nível: Básico
+  Status: Concluido
+
+- Mentoria #2: Como ser o Próximo Contratado da Spread  ☑
+  Live dia 18/11/2021
+  Duração: 2hr
+  Status: Concluido
+
+- Mentoria #3: Start Coding: Java Essencials 1
+  Live dia 25/11/2021
+  Duração: 2hr
+  Status:
+
+- Dominando IDEs Java
+  Duração:
+  Nível:
+  Status:
+
+- Váriáveis, Tipos de Dados e Operadores Matemáticos em Java
+  Duração:
+  Nível:
+  Status:
+
+- Lógica Condicional e Controle de Fluxo em Java
+  Duração:
+  Nível:
+  Status:
+
+- Estrutura de Repetição e Arrays em Java
+  Duração:
+  Nível:
+  Status:
+
+- Reforçando o conceito de Laços em Java
+  Duração:
+  Nível:
+  Status:
+
+- Mentoria #4: Como Resolver os Desafios de Código
+  Live dia 06/12/2021
+  Duração: 2hr
+  Status:
+
+- Resolvendo Desafios de Código em Java
+  Duração:
+  Nível:
+  Status:
+
+- Desafios Java Developer
+  Duração:
+  Nível:
+  Status:
+
+- Estrutura de Dados em Java
+  Duração:
+  Nível:
+  Status:
+
+- Trabalhando com Collections Java
+  Duração:
+  Nível:
+  Status:
+
+- Implementando Collections e Streams com Java
+  Duração:
+  Nível:
+  Status:
+
+- Introdução a Orientação a Objetos com Java
+  Duração:
+  Nível:
+  Status:
+
+- Projeto: Abstraindo um Bootcamp usando Orientação a Objetos com Java
+  Duração:
+  Nível:
+  Status:
+
+- SQL Server - Criando suas Primeiras Consultas
+  Duração:
+  Nível:
+  Status:
+
+- Modelando um Banco de Dados na Prática com SQL Server
+  Duração:
+  Nível:
+  Status:
+
+- SQL Server: Boas Práticas em Bancos Relacionais
+  Duração:
+  Nível:
+  Status:
+
+- Metoria #5: Oracle Database - Diferenciais
+  Live dia 13/12/2021
+  Duração: 2hr
+  Status:
+
+- Introdução a APIs e Métodos HTTP
+  Duração:
+  Nível:
+  Status:
+
+- Introdução ao Framework Spring Boot
+  Duração:
+  Nível:
+  Status:
+
+- Simplificando Projetos Java com o Spring Boot
+  Duração:
+  Nível:
+  Status:
+
+- Introdução aos Conceitos de API e Clean Architecture
+  Duração:
+  Nível:
+  Status:
+
+- Projeto: Desenvolvendo um Sistema de Gerenciamento de Pessoas em API Rest com Spring Boot
+  Duração:
+  Nível:
+  Status:
+
+- Mentoria #6: Consumindo uma API Rest com Spring - Exemplos Práticos
+  Live dia 16/12/2021
+  Duração: 2hr
+  Status:
+
+- Introdução a Qualidade de Software
+  Duração:
+  Nível:
+  Status:
+
+- Aprenda a Aplicas Testes com Java
+  Duração:
+  Nível:
+  Status:
+
+- Projeto: Desenvolvimento de Testes Unitários para Validar uma API Rest de Gerenciamento de Estoques de Cerveja
+  Duração:
+  Nível:
+  Status:
+
+- Mentoria #7: Introdução ao Teste de Software
+  Live dia 20/12/2021
+  Duração: 2hr
+  Status:
+
+- Mentoria #8: O que você precisa saber para se tornar um desenvolvedor de sucesso na Spread
+  Live dia 22/12/2021
+  Duração: 2hr
+  Status:
