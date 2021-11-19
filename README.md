@@ -1,6 +1,6 @@
 # Revisando Conceitos de Git/GitHub
 
-Repositório criado com intuito de revisar os conceitos de Git/GitHub para o primeiro desafio de projeto do Bootcamp Spreed Java Developer disponível na plataforma da Digital Innovation One - DIO.
+Repositório criado com intuito de revisar os conceitos de Git/GitHub para o primeiro desafio de projeto do Bootcamp Spread Java Developer disponível na plataforma da Digital Innovation One - DIO.
 
 
 ## Comandos Básicos Git
