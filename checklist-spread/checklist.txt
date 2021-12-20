@@ -5,32 +5,32 @@ Criei esse checklist com o intuito de ir acompanhando meu progresso no BootCamp 
 Cursos:
 
 - Boas-vindas ao Bootcamp Spread Java Developer ☑
-  Duração: 1hr
+  Duração: 1hrs
   Nível: Básico
   Status: Concluido
 
 - Bem-vindo à DIO  ☑
-  Duração: 1hr
+  Duração: 1hrs
   Nível: Básico
   Status: Concluido
 
 - Mentoria #1: Aula Inaugural Spread Java Developer  ☑
   Live dia 10/11/2021
-  Duração: 2hr
+  Duração: 2hrs
   Status: Concluido
 
 - Lógica de Programação Essencial  ☑
-  Duração: 4hr
+  Duração: 4hrs
   Nível: Básico
   Status: Concluido
 
 - Aprenda o que são Estrutura de Dados e Algoritmos  ☑
-  Duração: 2hr
+  Duração: 2hrs
   Nível: Intermediário
   Status: Concluido
 
 - Introdução ao Git e ao GitHub  ☑
-  Duração: 5hr
+  Duração: 5hrs
   Nível: Básico
   Status: Concluido
 
@@ -41,77 +41,77 @@ Cursos:
 
 - Mentoria #2: Como ser o Próximo Contratado da Spread  ☑
   Live dia 18/11/2021
+  Duração: 2hrs
+  Status: Concluido
+
+- Mentoria #3: Start Coding: Java Essencials 1 ☑
+  Live dia 25/11/2021
+  Duração: 2hrs
+  Status: Concluido
+
+- Dominando IDEs Java ☑
+  Duração: 4hrs
+  Nível: Básico
+  Status: Concluido
+
+- Váriáveis, Tipos de Dados e Operadores Matemáticos em Java ☑
+  Duração: 2hrs
+  Nível: Básico
+  Status: Concluido
+
+- Lógica Condicional e Controle de Fluxo em Java ☑
+  Duração: 1hr
+  Nível: Básico
+  Status: Concluido
+
+- Estrutura de Repetição e Arrays em Java ☑
+  Duração: 3hrs
+  Nível: Básico
+  Status: Concluido
+
+- Reforçando o conceito de Laços em Java ☑
+  Duração: 1hr
+  Nível: Básico
+  Status: Concluido
+
+- Mentoria #4: Como Resolver os Desafios de Código ☑
+  Live dia 06/12/2021
   Duração: 2hr
   Status: Concluido
 
-- Mentoria #3: Start Coding: Java Essencials 1
-  Live dia 25/11/2021
-  Duração: 2hr
-  Status:
+- Resolvendo Desafios de Código em Java ☑
+  Duração: 1hr
+  Nível: Básico
+  Status: Concluido
 
-- Dominando IDEs Java
-  Duração:
-  Nível:
-  Status:
+- Desafios Java Developer ☑
+  Duração: 1hr
+  Nível: Básico
+  Status: Concluido
 
-- Váriáveis, Tipos de Dados e Operadores Matemáticos em Java
-  Duração:
-  Nível:
-  Status:
+- Estrutura de Dados em Java ☑
+  Duração: 10hrs
+  Nível: Intermediário
+  Status: Concluido
 
-- Lógica Condicional e Controle de Fluxo em Java
-  Duração:
-  Nível:
-  Status:
+- Trabalhando com Collections Java ☑
+  Duração: 6hrs
+  Nível: Intermediária
+  Status: Concluido
 
-- Estrutura de Repetição e Arrays em Java
-  Duração:
-  Nível:
-  Status:
+- Implementando Collections e Streams com Java ☑
+  Duração: 6hrs
+  Nível: Intermediário
+  Status: Concluido
 
-- Reforçando o conceito de Laços em Java
-  Duração:
-  Nível:
-  Status:
-
-- Mentoria #4: Como Resolver os Desafios de Código
-  Live dia 06/12/2021
-  Duração: 2hr
-  Status:
-
-- Resolvendo Desafios de Código em Java
-  Duração:
-  Nível:
-  Status:
-
-- Desafios Java Developer
-  Duração:
-  Nível:
-  Status:
-
-- Estrutura de Dados em Java
-  Duração:
-  Nível:
-  Status:
-
-- Trabalhando com Collections Java
-  Duração:
-  Nível:
-  Status:
-
-- Implementando Collections e Streams com Java
-  Duração:
-  Nível:
-  Status:
-
-- Introdução a Orientação a Objetos com Java
-  Duração:
-  Nível:
-  Status:
+- Introdução a Orientação a Objetos com Java ☑
+  Duração: 2hrs
+  Nível: Intermediário
+  Status: Concluido
 
 - Projeto: Abstraindo um Bootcamp usando Orientação a Objetos com Java
-  Duração:
-  Nível:
+  Duração: 1hr
+  Nível: Intermediário
   Status:
 
 - SQL Server - Criando suas Primeiras Consultas
