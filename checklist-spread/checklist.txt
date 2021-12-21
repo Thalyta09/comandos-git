@@ -109,10 +109,10 @@ Cursos:
   Nível: Intermediário
   Status: Concluido
 
-- Projeto: Abstraindo um Bootcamp usando Orientação a Objetos com Java
+- Projeto: Abstraindo um Bootcamp usando Orientação a Objetos com Java ☑
   Duração: 1hr
   Nível: Intermediário
-  Status:
+  Status: Concluido
 
 - SQL Server - Criando suas Primeiras Consultas
   Duração:
