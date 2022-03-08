@@ -169,22 +169,22 @@ Cursos:
   Nível: Básico
   Status: Concluido
 
-- Aprenda a Aplicas Testes com Java
+- Aprenda a Aplicas Testes com Java ☑
   Duração: 2hrs
   Nível: Intermediário
-  Status:
+  Status: Concluido
 
-- Projeto: Desenvolvimento de Testes Unitários para Validar uma API Rest de Gerenciamento de Estoques de Cerveja
+- Projeto: Desenvolvimento de Testes Unitários para Validar uma API Rest de Gerenciamento de Estoques de Cerveja ☑
   Duração: 5hrs
   Nível: Avançado
-  Status:
+  Status: Concluido
 
-- Mentoria #7: Introdução ao Teste de Software
+- Mentoria #7: Introdução ao Teste de Software ☑
   Live dia 20/12/2021
   Duração: 2hr
-  Status:
+  Status: Concluido
 
-- Mentoria #8: O que você precisa saber para se tornar um desenvolvedor de sucesso na Spread
+- Mentoria #8: O que você precisa saber para se tornar um desenvolvedor de sucesso na Spread ☑
   Live dia 22/12/2021
   Duração: 2hr
-  Status:
+  Status: Concluido
